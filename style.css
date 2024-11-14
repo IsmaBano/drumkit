@@ -1,0 +1,31 @@
+body{
+    background-color: #7882A4;
+    color: white;
+    font-style: san-serif;
+}
+.red{
+    color: rgb(238, 64, 25);
+}
+.title{
+    text-align: center;
+    font-size: 120px;
+    color:white;
+    text-shadow:3px 0  rgb(187, 93, 93);
+}
+.set{
+    padding-top: 100px;
+    padding-bottom: 100px;
+ display:flex;
+justify-content: space-evenly;
+}
+.drum{
+    height: 170px;
+    width: 170px;
+    font-size: 60px;
+    border-radius: 20px;
+    border:12px solid #6d7695;
+    color: red;
+}
+.footer{
+    text-align: center;
+}
